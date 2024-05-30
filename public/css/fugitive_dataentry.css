@@ -1,0 +1,632 @@
+.mobile-combustion-data-entry-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, #014762, #448e1f);
+    width: 94px;
+    height: 1024px;
+  }
+  .white-variation-1 {
+    position: absolute;
+    top: 65px;
+    left: 15px;
+    width: 57px;
+    height: 55px;
+    object-fit: cover;
+  }
+  .mobile-combustion-data-entry-item {
+    position: absolute;
+    top: 38px;
+    left: 1354px;
+    border-radius: 50%;
+    width: 55px;
+    height: 55px;
+  }
+  .user-5-1 {
+    position: absolute;
+    top: 40px;
+    left: 1289px;
+    width: 44px;
+    height: 43px;
+    object-fit: cover;
+  }
+  .data-management-1-icon,
+  .data-management-2-icon,
+  .data-management-4-icon {
+    position: absolute;
+    top: 351px;
+    left: 29px;
+    width: 38px;
+    height: 38px;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  .data-management-2-icon,
+  .data-management-4-icon {
+    top: 515px;
+    left: 31px;
+  }
+  .data-management-2-icon {
+    top: 269px;
+    left: 29px;
+    height: 37px;
+  }
+  .co2 {
+    position: absolute;
+    top: 4.5px;
+    left: 0;
+    display: inline-block;
+    width: 85.1px;
+    height: 67px;
+  }
+  .group-child {
+    position: absolute;
+    top: 0;
+    left: 42.9px;
+    width: 0;
+    height: 21.8px;
+    object-fit: contain;
+  }
+  .co2-parent {
+    position: absolute;
+    top: 422px;
+    left: 25.6px;
+    width: 85.1px;
+    height: 71.5px;
+    font-size: 28px;
+    color: var(--white);
+    font-family: var(--drop-menu-menu);
+  }
+  
+  
+  .header {
+    margin-top: -50px;
+    margin-left: -80px;
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    background-color: var(--white);
+    border: 1.3px solid var(--blues-gray2);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--padding-2xs) var(--padding-lg);
+    z-index: 1;
+  }
+
+  .dropdown-box,
+  .reporting-year {
+    position: absolute;
+    font-family: var(--drop-menu-menu);
+  }
+  .dropdown-box {
+    top: 73px;
+    left: 1131px;
+    width: 195px;
+    height: 33px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--drop-menu-menu-size);
+    color: var(--black);
+  }
+  .reporting-year {
+    top: 48px;
+    left: 1012px;
+    font-size: 13px;
+    font-weight: 500;
+    color: #bbb;
+    display: inline-block;
+    width: 207px;
+    height: 26px;
+  }
+  .data-management-3-icon {
+    position: absolute;
+    top: 173px;
+    left: 27px;
+    width: 42px;
+    height: 42px;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  .left-arrow-in-circular-button-icon {
+    position: absolute;
+    top: 45px;
+    left: 148px;
+    width: 44px;
+    height: 43px;
+    object-fit: cover;
+  }
+  .mobile-combustion-data-entry-inner {
+    position: absolute;
+    top: 130px;
+    left: 1012px;
+    background: linear-gradient(180deg, #014762, #448e1f);
+    width: 132px;
+    height: 125px;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 296px;
+    left: 546px;
+    border-radius: var(--br-2xs);
+    background-color: var(--white);
+    border: 1.5px solid var(--color-lightgray);
+    box-sizing: border-box;
+    width: 284px;
+    height: 36px;
+  }
+  .mobile-combustion-data-entry-child2 {
+    position: absolute;
+    top: 296px;
+    left: 168px;
+    border-radius: var(--br-2xs);
+    background-color: var(--white);
+    border: 1.5px solid var(--color-lightgray);
+    box-sizing: border-box;
+    width: 302px;
+    height: 36px;
+  }
+
+  .mobile-combustion-data-entry-child3 {
+    position: absolute;
+    top: 340px;
+    left: 168px;
+    border-radius: var(--br-2xs);
+    background-color: var(--white);
+    border: 1.5px solid var(--color-lightgray);
+    box-sizing: border-box;
+    width: 302px;
+    height: 36px;
+  }
+  .facility,
+  .facility-name,
+  .month {
+    position: absolute;
+    top: 426px;
+    left: 192px;
+    display: inline-block;
+    width: 131px;
+    height: 21px;
+  }
+  .facility,
+  .month {
+    top: 270px;
+    left: 168px;
+    font-size: var(--font-size-sm);
+    font-weight: 600;
+    font-family: var(--font-sarabun);
+    color: var(--color-seagreen-100);
+    width: 330px;
+  }
+  .month {
+    top: 270px;
+    left: 547px;
+  }
+  .div {
+    top: 140px;
+    left: 1181px;
+    font-size: 64px;
+    font-weight: 800;
+    background: linear-gradient(180deg, #014762, #448e1f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    width: 577px;
+    height: 299px;
+  }
+  .div,
+  .fugitive-emissions,
+  .mtco2 {
+    position: absolute;
+    display: inline-block;
+    font-family: var(--drop-menu-menu);
+  }
+  .mtco2 {
+    top: 220px;
+    left: 1182px;
+    font-size: 24px;
+    color: var(--color-forestgreen);
+    width: 577px;
+    height: 299px;
+  }
+  .fugitive-emissions {
+    top: 170px;
+    left: 167px;
+    font-size: 36px;
+    color: #014762;
+    width: 1001px;
+    height: 123px;
+  }
+  .mobile-combustion-data-entry-child4 {
+    position: absolute;
+    top: 638px;
+    left: 843px;
+    border-radius: var(--br-11xl-5);
+    background: linear-gradient(180deg, #014762, #448e1f);
+    width: 123px;
+    height: 38px;
+  }
+  .add-data {
+    position: absolute;
+    top: 647px;
+    left: 887px;
+    display: inline-block;
+    font-family: var(--drop-menu-menu);
+    color: var(--white);
+    width: 73px;
+    height: 16px;
+  }
+  .add-6-icon,
+  .cart-10-icon {
+    position: absolute;
+    top: 647px;
+    left: 867px;
+    width: 13px;
+    height: 14px;
+    object-fit: cover;
+  }
+  .cart-10-icon {
+    top: 160px;
+    left: 1037px;
+    width: 83px;
+    height: 83px;
+  }
+.mobile-combustion-data-entry-child5 {
+    position: absolute;
+    top: 444px;
+    left: 167px;
+    border-radius: var(--br-2xs);
+    background-color: var(--white);
+    border: 1.5px solid var(--color-lightgray);
+    box-sizing: border-box;
+    width: 155px;
+    height: 36px;
+  }
+       
+  .mobile-combustion-data-entry-child6 {
+    position: absolute;
+    top: 444px;
+    left: 361px;
+    font-family: var(--font-inter);
+    border-radius: var(--br-2xs);
+    background-color: var(--white);
+    border: 1.5px solid var(--color-lightgray);
+    box-sizing: border-box;
+    width: 231px;
+    height: 36px;
+  }
+  
+  .type-of-gas2 {
+    position: absolute;
+    top: 586px;
+    left: 370px;
+    display: inline-block;
+    width: 132px;
+    height: 22px;
+  }
+  .type-of-gas2 {
+    top: 420px;
+    left: 167px;
+    font-size: var(--font-size-sm);
+    font-weight: 600;
+    font-family: var(--font-sarabun);
+    color: var(--color-seagreen-100);
+    width: 330px;
+    height: 21px;
+  }
+  .span {
+    font-size: var(--font-size-3xs);
+  }
+  .refrigerant-charged {
+    font-weight: 600;
+  }
+  .refrigerant-charged-new-container {
+    position: absolute;
+    top: 420px;
+    left: 361px;
+    color: var(--color-seagreen-100);
+    display: inline-block;
+    width: 330px;
+    height: 21px;
+    font-size: var(--font-size-sm);
+    font-family: var(--font-sarabun);
+  }
+  .mobile-combustion-data-entry-child7 {
+    position: absolute;
+    top: 444px;
+    left: 603px;
+    border-radius: var(--br-2xs);
+    background-color: var(--white);
+    font-family: var(--font-inter);
+    border: 1.5px solid var(--color-lightgray);
+    box-sizing: border-box;
+    width: 234px;
+    height: 36px;
+  }
+  .capacity-of-equipment-container,
+  .type-of-gas3 {
+    position: absolute;
+    top: 586px;
+    left: 612px;
+    display: inline-block;
+    width: 132px;
+    height: 22px;
+  }
+  .capacity-of-equipment-container {
+    top: 420px;
+    left: 603px;
+    color: var(--color-seagreen-100);
+    width: 330px;
+    height: 21px;
+    font-size: var(--font-size-sm);
+    font-family: var(--font-sarabun);
+  }
+  .mobile-combustion-data-entry-child8 {
+    position: absolute;
+    top: 506px;
+    left: 603px;
+    border-radius: var(--br-2xs);
+    background-color: var(--white);
+    font-family: var(--font-inter);
+    border: 1.5px solid var(--color-lightgray);
+    box-sizing: border-box;
+    width: 234px;
+    height: 36px;
+  }
+  .capacity-of-equipment-container1,
+  .type-of-gas4 {
+    position: absolute;
+    top: 676px;
+    left: 612px;
+    display: inline-block;
+    width: 132px;
+    height: 22px;
+  }
+  .capacity-of-equipment-container1 {
+    top: 485px;
+    left: 603px;
+    color: var(--color-seagreen-100);
+    width: 330px;
+    height: 21px;
+    font-size: var(--font-size-sm);
+    font-family: var(--font-sarabun);
+  }
+  .mobile-combustion-data-entry-child9 {
+    position: absolute;
+    top: 570px;
+    left: 361px;
+    font-family: var(--font-inter);
+    border-radius: var(--br-2xs);
+    background-color: var(--white);
+    
+    border: 1.5px solid var(--color-lightgray);
+    box-sizing: border-box;
+    width: 231px;
+    height: 36px;
+  }
+  .type-of-gas5 {
+    position: absolute;
+    top: 765px;
+    left: 370px;
+    display: inline-block;
+    width: 132px;
+    height: 22px;
+  }
+  .refrigerant-charged-existing-container {
+    position: absolute;
+    top: 550px;
+    left: 361px;
+    color: var(--color-seagreen-100);
+    display: inline-block;
+    width: 330px;
+    height: 21px;
+    font-size: var(--font-size-sm);
+    font-family: var(--font-sarabun);
+  }
+  .mobile-combustion-data-entry-child10 {
+    position: absolute;
+    top: 570px;
+    left: 603px;
+    border-radius: var(--br-2xs);
+    background-color: var(--white);
+    font-family: var(--font-inter);
+    border: 1.5px solid var(--color-lightgray);
+    box-sizing: border-box;
+    width: 234px;
+    height: 36px;
+  }
+  .refrigerant-purchased,
+  .type-of-gas6 {
+    position: absolute;
+    top: 765px;
+    left: 612px;
+    display: inline-block;
+    width: 132px;
+    height: 22px;
+  }
+  .refrigerant-purchased {
+    top: 550px;
+    left: 603px;
+    font-size: var(--font-size-sm);
+    font-weight: 600;
+    font-family: var(--font-sarabun);
+    color: var(--color-seagreen-100);
+    width: 330px;
+    height: 21px;
+  }
+  .mobile-combustion-data-entry-child11 {
+    position: absolute;
+    top: 506px;
+    left: 361px;
+    border-radius: var(--br-2xs);
+    background-color: var(--white);
+    font-family: var(--font-inter);
+    border: 1.5px solid var(--color-lightgray);
+    box-sizing: border-box;
+    width: 231px;
+    height: 36px;
+  }
+  .type-of-gas7 {
+    position: absolute;
+    top: 676px;
+    left: 370px;
+    display: inline-block;
+    width: 132px;
+    height: 22px;
+  }
+  .span1 {
+    font-weight: 300;
+    font-family: var(--font-sarabun);
+  }
+  .refrigerant-recovered-retirin-container {
+    position: absolute;
+    top: 485px;
+    left: 361px;
+    color: var(--color-seagreen-100);
+    display: inline-block;
+    width: 330px;
+    height: 21px;
+    font-size: var(--font-size-sm);
+    font-family: var(--font-sarabun);
+  } 
+
+  .line-icon {
+    position: absolute;
+    top: 630px;
+    left: 167px;
+    
+  }
+  
+  .vector-icon {
+    position: absolute;
+    top: 450px;
+    left: 1012px;
+    border-radius: var(--br-6xs);
+    width: 209px;
+    height: 190px;
+  }
+  .mobile-combustion-data-entry-child14,
+  .mobile-combustion-data-entry-child15 {
+    position: absolute;
+    top: 446px;
+    left: 1091px;
+    border-radius: var(--br-6xs);
+    width: 187px;
+    height: 196px;
+  }
+  .mobile-combustion-data-entry-child15 {
+    top: 446px;
+    left: 1169px;
+    width: 174px;
+    height: 197px;
+  }
+  .ellipse-div {
+    position: absolute;
+    top: 420px;
+    left: 1012px;
+    border-radius: 50%;
+    background-color: #82b086;
+    width: 23px;
+    height: 22px;
+  }
+  .mobile-combustion-data-entry-child16,
+  .mobile-combustion-data-entry-child17 {
+    position: absolute;
+    top: 390px;
+    left: 1012px;
+    border-radius: 50%;
+    background-color: #4c876a;
+    width: 23px;
+    height: 22px;
+  }
+  .mobile-combustion-data-entry-child17 {
+    top: 360px;
+    background-color: #256d3f;
+    height: 22px;
+  }
+  .mobile-combustion-data-entry-child18 {
+    position: absolute;
+    top: 270px;
+    left: 1012px;
+    border-radius: var(--br-11xl-5);
+    background: linear-gradient(180deg, #014762, #448e1f);
+    width: 123px;
+    height: 41px;
+  }
+  .view-data {
+    position: absolute;
+    top: 280px;
+    left: 1047px;
+    display: inline-block;
+    font-family: var(--drop-menu-menu);
+    color: var(--white);
+    width: 73px;
+    height: 16px;
+  }
+  .add-8-icon {
+    position: absolute;
+    top: 283px;
+    left: 1031px;
+    width: 12px;
+    height: 12px;
+    object-fit: cover;
+  }
+  .attachments {
+    position: absolute;
+    top: 420px;
+    left: 855px;
+    font-size: var(--font-size-sm);
+    font-weight: 600;
+    font-family: var(--font-sarabun);
+    color: var(--color-seagreen-100);
+    display: inline-block;
+    width: 330px;
+    height: 21px;
+  }
+  .mobile-combustion-data-entry-child19 {
+    position: absolute;
+    top: 444px;
+    left: 855px;
+    border-radius: 4px;
+    background: linear-gradient(180deg, #014762, #448e1f);
+    width: 84px;
+    height: 31px;
+  }
+  
+  .file-upload-input {
+    position: absolute;
+    height: 16px;
+  }
+  .file-upload-input {
+    /* top: 589px;
+    left: 886px; */
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 7px;
+    display: inline-block;
+    font-family: var(--drop-menu-menu);
+    color: var(--white);
+    width: 93px;
+  }
+  .file-icon {
+    /* top: 587px;
+    left: 869px; */
+    margin-left: 14px;
+    margin-top: 8px;
+    width: 16px;
+    object-fit: cover;
+  }
+  .mobile-combustion-data-entry {
+    width: 100%;
+    position: relative;
+    background-color: var(--white);
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-family: var(--font-inter);
+    font-size: var(--font-size-2xs);
+    color: var(--color-gray);
+  
+  }
+  
